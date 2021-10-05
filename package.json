@@ -1,9 +1,8 @@
 {
-  "name": "k-ui",
+  "name": "@iamjuuyoung/k-ui",
   "private": false,
   "author": "iamjuuyoung",
   "license": "MIT",
-  "version": "1.0.0",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@storybook/addon-actions": "^6.3.9",
