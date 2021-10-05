@@ -6,5 +6,6 @@
   },
   "dependencies": {
     "@k-ui/k-table-row": "^0.0.2"
-  }
+  },
+  "gitHead": "b3a3c2dc45fcfc86ef0abcc448c535c80af4fa16"
 }
