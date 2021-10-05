@@ -1,11 +1,11 @@
 {
   "name": "@k-ui/k-table",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@k-ui/k-table-row": "^0.0.3"
+    "@k-ui/k-table-row": "^0.0.4"
   },
   "gitHead": "2d51b919719ace9f2c288c3374646b619aeec49c"
 }
