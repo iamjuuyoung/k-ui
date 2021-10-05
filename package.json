@@ -27,8 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:iamjuuyoung/k-ui.git",
-    "directory": "k-ui"
+    "url": "ssh://git@github.com:iamjuuyoung/k-ui.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
