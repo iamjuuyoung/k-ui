@@ -2,7 +2,7 @@
   "name": "@k-ui/k-table-row",
   "version": "1.0.14",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "1955e3d98f983874625b9113768024d33f504efe"
+  "gitHead": "fdd20763d90981b58ab30d1622d7935d3fde171b"
 }
