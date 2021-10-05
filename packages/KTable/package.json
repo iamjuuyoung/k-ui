@@ -1,10 +1,10 @@
 {
   "name": "@k-ui/k-table",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@k-ui/k-table-row": "^0.0.1"
+    "@k-ui/k-table-row": "^0.0.2"
   }
 }
