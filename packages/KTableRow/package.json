@@ -1,8 +1,8 @@
 {
   "name": "@k-ui/k-table-row",
-  "version": "1.0.2",
+  "version": "0.0.1",
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "a54224d72610f8d420208ef062f54c424fb2efe8"
+  "gitHead": "39eb9fa9e4fe476c856943a09771be3c7be984ae"
 }
