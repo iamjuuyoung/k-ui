@@ -32,6 +32,6 @@
     "url": "ssh://git@github.com:iamjuuyoung/k-ui.git"
   },
   "publishConfig": {
-    "@iamjuuyoung:registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
