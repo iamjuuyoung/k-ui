@@ -2,12 +2,8 @@
   "name": "@k-ui/k-table-row",
   "version": "1.0.24",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@github.com:iamjuuyoung/k-ui.git"
-  },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@iamjuuyoung"
+    "access": "public"
   },
-  "gitHead": "1a6eb32d4d1c493e93555639dd809fb3c986e263"
+  "gitHead": "877907a1916fd40d834e750e26d22d18d6f99feb"
 }
