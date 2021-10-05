@@ -1,6 +1,5 @@
 {
-  "name": "root",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.15.5",
@@ -25,5 +24,13 @@
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:iamjuuyoung/k-ui.git",
+    "directory": "k-ui"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
