@@ -7,7 +7,7 @@
     "url": "ssh://git@github.com:iamjuuyoung/k-ui.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@iamjuuyoung"
   },
-  "gitHead": "99a3e04a03b14bee300b5e2c9ebbaac7d071f1cf"
+  "gitHead": "1a6eb32d4d1c493e93555639dd809fb3c986e263"
 }
