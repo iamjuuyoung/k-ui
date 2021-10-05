@@ -1,0 +1,7 @@
+36 error Error: Command failed with exit code 128: git tag @k-ui/k-table-row@0.0.2 -m @k-ui/k-table-row@0.0.2
+36 error fatal: tag '@k-ui/k-table-row@0.0.2' already exists
+36 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/lib/error.js:60:11)
+36 error     at handlePromise (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:118:26)
+36 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+36 error     at async Promise.all (index 0)
+36 error     at async Promise.all (index 0)
